@@ -1,8 +1,8 @@
 {
-  "name": "Teste-1",
-  "short_name": "Teste-1",
+  "name": "teste",
+  "short_name": "teste",
   "description": "Teste-1",
-  "id": "./app-teste-1-hub",
+  "id": "./app-teste-hub",
   "start_url": "./hub.html",
   "scope": "./",
   "display": "standalone",

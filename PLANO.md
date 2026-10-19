@@ -1,19 +1,19 @@
 # 📋 Plano do projeto: codigos-numerados-2026-10-19
 
-_Gerado em 19/10/2026, 04:58:29 — sem IA, lendo os arquivos._
+_Gerado em 19/10/2026, 05:04:20 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
 |---|---|
-| Arquivos | 76 |
-| Linhas | 35.818 |
+| Arquivos | 79 |
+| Linhas | 36.474 |
 | Telas/páginas | 50 |
 | Rotas do backend | 0 |
 | Chamadas do app | 0 |
 | Tabelas do banco | 0 |
 | Variáveis de ambiente | 0 |
 
-**Linguagens:** HTML (50), Imagem (17), Imagem SVG (2), Markdown (2), JavaScript (2), Ícone (1), Outros (1), JSON (1)
+**Linguagens:** HTML (50), Imagem (17), Markdown (3), JSON (2), Imagem SVG (2), JavaScript (2), YAML (1), Ícone (1), Outros (1)
 
 ## 💡 O que fazer (em ordem)
 1. 🧹 Tirar a Replit de 1 arquivo(s) (🏗️ Preparar → Fazer tudo)
@@ -103,6 +103,9 @@ _Nenhuma._
 
 ## 🌳 Árvore de arquivos
 ```
+├─ 📁 .github/
+│  └─ 📁 workflows/
+│     └─ apk.yml
 ├─ 📁 icons/
 │  ├─ apple-touch-icon.png
 │  ├─ icon-128.png
@@ -169,6 +172,7 @@ _Nenhuma._
 ├─ 7.html
 ├─ 8.html
 ├─ 9.html
+├─ apk.config.json
 ├─ favicon.ico
 ├─ hub.html
 ├─ hub.webmanifest
@@ -178,6 +182,7 @@ _Nenhuma._
 ├─ LISTA.md
 ├─ manifest.json
 ├─ PLANO.md
+├─ RECEITA.md
 ├─ service-worker.js
 └─ sw.js
 ```

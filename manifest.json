@@ -1,6 +1,6 @@
 {
-  "id": "./app-teste1",
-  "name": "Teste1",
+  "id": "./app-teste",
+  "name": "teste",
   "short_name": "Teste",
   "start_url": "./",
   "scope": "./",
