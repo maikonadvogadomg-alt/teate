@@ -1,9 +1,9 @@
 {
-  "nome": "teste (teste)",
-  "arquivo": "teste",
-  "pacote": "com.maikonadvogadomgalt.teste.app.nteste",
-  "versao": "1.0",
-  "versaoCodigo": 1,
+  "nome": "testes",
+  "arquivo": "testes",
+  "pacote": "com.maikonadvogadomgalt.teste.app",
+  "versao": "1.1",
+  "versaoCodigo": 2,
   "cor": "#0f1420",
   "orientacao": "unspecified",
   "lacre": false
